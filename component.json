@@ -5,8 +5,8 @@
   "version": "1.0.9",
   "keywords": [],
   "dependencies": {
-    "components/jquery": "*",
-    "components/underscore": "^1.5.2"
+    "components/jquery": "master",
+    "components/underscore": "master"
   },
   "development": {},
   "scripts": [
