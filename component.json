@@ -11,7 +11,7 @@
   "development": {},
   "scripts": [
     "js/calendar.js",
-    "components/jstimezonedetect/jstz.js",
+    "jstimezonedetect/jstz.js",
     "js/language/nl-NL.js",
     "js/language/fr-FR.js",
     "js/language/de-DE.js",
